@@ -1,5 +1,4 @@
 # DecodeLabs_Internship_p2
-# DecodeLabs Internship
 
 ## Java Student Grade Calculator
 
@@ -45,7 +44,7 @@ The program asks the user to enter the number of subjects, followed by each subj
 1. Clone this repository:
 
    ```
-   https://github.com/laibashahnawaz451-creator/DecodeLabs_Internship.git
+   https://github.com/laibashahnawaz451-creator/DecodeLabs_Internship_p2.git
    ```
 
 2. Open the project in any Java IDE (VS Code, IntelliJ IDEA, Eclipse, etc.).
