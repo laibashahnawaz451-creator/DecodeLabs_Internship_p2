@@ -98,7 +98,7 @@ This project demonstrates:
 * Arithmetic Operations
 * Average Calculation
 * Grade Evaluation
-* Encapsulation (organizing program logic and data within a Java class)
+
 
 ---
 
